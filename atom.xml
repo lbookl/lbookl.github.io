@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://tyuu.me/"/>
-  <updated>2015-12-11T06:17:28.610Z</updated>
+  <updated>2015-12-11T06:19:53.393Z</updated>
   <id>http://tyuu.me/</id>
   
   <author>
@@ -13,19 +13,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[hell]]></title>
-    <link href="http://tyuu.me/2015/12/11/hell/"/>
-    <id>http://tyuu.me/2015/12/11/hell/</id>
-    <published>2015-12-11T06:17:28.000Z</published>
-    <updated>2015-12-11T06:17:28.610Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-  </entry>
   
   <entry>
     <title><![CDATA[JAVA 8 LAMBDA COMPARATOR 例子]]></title>
