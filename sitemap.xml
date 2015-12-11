@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tyuu.me/2015/12/11/java-8-lambda-compartor/</loc>
+    <lastmod>2015-12-11T08:54:55.381Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tyuu.me/about/index.html</loc>
     <lastmod>2015-12-11T06:56:34.305Z</lastmod>
   </url>
@@ -14,11 +19,6 @@
   <url>
     <loc>http://tyuu.me/tags/index.html</loc>
     <lastmod>2015-12-11T06:44:45.830Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tyuu.me/2015/12/11/java-8-lambda-compartor/</loc>
-    <lastmod>2015-12-11T06:19:53.393Z</lastmod>
   </url>
   
 </urlset>
